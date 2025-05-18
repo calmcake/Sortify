@@ -1,5 +1,5 @@
 # 🗂️ Sortify
-![image](https://github.com/user-attachments/assets/4e4691bb-3f4a-4790-b072-927450cda4b4)
+![image](https://github.com/user-attachments/assets/d9ee931b-19e6-4c64-b3c7-3a2aec1f65ac)
 
 **Sortify** — это умный и простой в использовании сортировщик файлов для Windows, написанный на Python с использованием библиотеки Tkinter.
 
